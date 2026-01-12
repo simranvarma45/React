@@ -15,5 +15,7 @@ and build real, job-ready projects using React.
 - Daily commits (even small)
 - Learn by building and breaking things
 
+
+
 ## Start Date
 <10-01-2026>
