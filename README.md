@@ -1,6 +1,6 @@
-# React 45-Day Fundamentals & Project
+# React Fundamentals & Project
 
-This repository documents my 45-day commitment to rebuild my React fundamentals
+This repository documents  my React fundamentals
 and build real, job-ready projects using React.
 
 ## Goal
@@ -12,10 +12,5 @@ and build real, job-ready projects using React.
 ## Rules
 - No tutorial copy-paste
 - Code > notes
-- Daily commits (even small)
 - Learn by building and breaking things
 
-
-
-## Start Date
-<10-01-2026>
